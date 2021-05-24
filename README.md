@@ -1,4 +1,6 @@
 # DevhausFizzBuzz
+![mainMenu](https://github.com/Erikkre/DevhausInterview_DockerFizzBuzz/blob/main/res/readmeImages/instructions.png)\
+
 ## Junior, Intermediate and Senior Developer  
 Write a program in your language of choice that prints the numbers 1 to 105. But for multiples of three  print “Devhaus” instead of the number; for multiples of five print “Learning”; for multiples of seven print  “Model”; for multiples of both three and five print “Devhaus Learning”; for multiples of both three and  seven print “Devhaus Model”; for multiples of all of three, five and seven print “Devhaus Learning  Model”  
 Write an automated test that proves that your code works.  
