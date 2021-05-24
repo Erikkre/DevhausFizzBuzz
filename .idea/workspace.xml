@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12ad8e0f-a2db-49ed-a7d4-c29dac70355c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevhausInterview_DockerFizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ssCjHBE44kFcAmegBkpHKgoV0F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="DevhausFizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevhausFizzBuzz" />
+      <module name="DevhausInterview_DockerFizzBuzz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kredatus.Main" />
+      <module name="DevhausInterview_DockerFizzBuzz" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DevhausFizzBuzz" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Application.DevhausFizzBuzz" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12ad8e0f-a2db-49ed-a7d4-c29dac70355c" name="Default Changelist" comment="" />
+      <created>1621652044151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621652044151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1124" y="379" key="#Docker" timestamp="1621691429857">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1124" y="379" key="#Docker/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621691429857" />
+    <state x="5324" y="352" key="#Dockerfile" timestamp="1621705084422">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state x="2532" y="254" key="#Dockerfile/0.0.3440.1400/3440.98.2560.1440/-1920.345.1920.1080@0.0.3440.1400" timestamp="1621692726666" />
+    <state x="2532" y="254" key="#Dockerfile/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621690746796" />
+    <state x="5324" y="352" key="#Dockerfile/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621705084422" />
+    <state x="4174" y="474" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621706585128">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state x="986" y="376" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/3440.98.2560.1440/-1920.345.1920.1080@0.0.3440.1400" timestamp="1621692734560" />
+    <state x="986" y="376" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621691450247" />
+    <state x="4174" y="474" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621706585128" />
+    <state x="2571" y="375" width="440" height="500" key="FileChooserDialogImpl" timestamp="1621692634460">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2571" y="375" width="440" height="500" key="FileChooserDialogImpl/0.0.3440.1400/3440.98.2560.1440/-1920.345.1920.1080@0.0.3440.1400" timestamp="1621692634460" />
+    <state width="1043" height="406" key="GridCell.Tab.0.bottom" timestamp="1621798337374">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1043" height="406" key="GridCell.Tab.0.bottom/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621798337374" />
+    <state width="2517" height="406" key="GridCell.Tab.0.bottom/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621656058002" />
+    <state width="1043" height="406" key="GridCell.Tab.0.center" timestamp="1621798337374">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1043" height="406" key="GridCell.Tab.0.center/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621798337374" />
+    <state width="2517" height="406" key="GridCell.Tab.0.center/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621656058002" />
+    <state width="1043" height="406" key="GridCell.Tab.0.left" timestamp="1621798337374">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1043" height="406" key="GridCell.Tab.0.left/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621798337374" />
+    <state width="2517" height="406" key="GridCell.Tab.0.left/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621656058002" />
+    <state width="1043" height="406" key="GridCell.Tab.0.right" timestamp="1621798337374">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1043" height="406" key="GridCell.Tab.0.right/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621798337374" />
+    <state width="2517" height="406" key="GridCell.Tab.0.right/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621656058002" />
+    <state width="2517" height="498" key="GridCell.Tab.1.bottom" timestamp="1621653971080">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="498" key="GridCell.Tab.1.bottom/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621653971080" />
+    <state width="2517" height="498" key="GridCell.Tab.1.center" timestamp="1621653971079">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="498" key="GridCell.Tab.1.center/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621653971079" />
+    <state width="2517" height="498" key="GridCell.Tab.1.left" timestamp="1621653971079">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="498" key="GridCell.Tab.1.left/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621653971079" />
+    <state width="2517" height="498" key="GridCell.Tab.1.right" timestamp="1621653971080">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="498" key="GridCell.Tab.1.right/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621653971080" />
+    <state x="2292" y="275" key="SettingsEditor" timestamp="1621692701336">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2292" y="275" key="SettingsEditor/0.0.3440.1400/3440.98.2560.1440/-1920.345.1920.1080@0.0.3440.1400" timestamp="1621692701336" />
+    <state x="4417" y="643" key="com.intellij.ide.util.TipDialog" timestamp="1621804705008">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state x="1313" y="545" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/3440.98.2560.1440/-1920.345.1920.1080@0.0.3440.1400" timestamp="1621789294442" />
+    <state x="4417" y="643" key="com.intellij.ide.util.TipDialog/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621804705008" />
+    <state x="4416" y="643" key="com.intellij.ide.util.TipDialog/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621711076172" />
+    <state x="4424" y="712" width="1104" height="584" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621652089372">
+      <screen x="3440" y="98" width="2560" height="1400" />
+    </state>
+    <state x="4424" y="712" width="1104" height="584" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@3440.98.2560.1400" timestamp="1621652089372" />
+    <state x="516" y="334" key="run.anything.popup" timestamp="1621691454936">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="516" y="334" key="run.anything.popup/3440.98.2560.1400/-1920.345.1920.1080/0.0.3440.1400@0.0.3440.1400" timestamp="1621691454936" />
+  </component>
+</project>
